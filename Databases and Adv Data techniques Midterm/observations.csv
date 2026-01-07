@@ -1,0 +1,164 @@
+series_name,year,value
+Accommodation And Food Services,2015,1350.2
+Accommodation And Food Services,2016,1453.1
+Accommodation And Food Services,2017,1406.2
+Accommodation And Food Services,2018,1465.2
+Accommodation And Food Services,2019,1523.3
+Accommodation And Food Services,2020,1289.1
+Accommodation And Food Services,2021,1328.1
+Accommodation And Food Services,2022,1441.5
+Accommodation And Food Services,2023,1587.4
+Commerce And Service-Related,2015,17481.2
+Commerce And Service-Related,2016,17699.5
+Commerce And Service-Related,2017,18059.9
+Commerce And Service-Related,2018,18582.3
+Commerce And Service-Related,2019,19318.9
+Commerce And Service-Related,2020,18517.6
+Commerce And Service-Related,2021,19837.1
+Commerce And Service-Related,2022,21187.3
+Commerce And Service-Related,2023,22092.7
+Construction,2015,533.8
+Construction,2016,554.2
+Construction,2017,485.5
+Construction,2018,431.5
+Construction,2019,397.1
+Construction,2020,387.0
+Construction,2021,472.0
+Construction,2022,464.5
+Construction,2023,421.6
+Electricity Consumption,2015,47513.9
+Electricity Consumption,2016,48623.0
+Electricity Consumption,2017,49638.0
+Electricity Consumption,2018,50461.0
+Electricity Consumption,2019,51730.1
+Electricity Consumption,2020,50779.5
+Electricity Consumption,2021,53483.3
+Electricity Consumption,2022,54884.9
+Electricity Consumption,2023,55386.9
+Electricity Generation,2015,50271.6
+Electricity Generation,2016,51586.6
+Electricity Generation,2017,52225.8
+Electricity Generation,2018,52904.8
+Electricity Generation,2019,54142.3
+Electricity Generation,2020,53071.6
+Electricity Generation,2021,55788.3
+Electricity Generation,2022,57113.7
+Electricity Generation,2023,57384.2
+Electricity Generation,2024,59616.1
+Financial And Insurance Activities,2015,2718.1
+Financial And Insurance Activities,2016,2361.1
+Financial And Insurance Activities,2017,2408.4
+Financial And Insurance Activities,2018,2321.1
+Financial And Insurance Activities,2019,2380.7
+Financial And Insurance Activities,2020,2152.4
+Financial And Insurance Activities,2021,2271.9
+Financial And Insurance Activities,2022,2341.7
+Financial And Insurance Activities,2023,2376.0
+Households,2015,7220.9
+Households,2016,7585.8
+Households,2017,7289.9
+Households,2018,7231.5
+Households,2019,7681.3
+Households,2020,8244.5
+Households,2021,8277.7
+Households,2022,7911.0
+Households,2023,8002.9
+Industrial-Related,2015,20087.8
+Industrial-Related,2016,20418.5
+Industrial-Related,2017,21240.6
+Industrial-Related,2018,21441.8
+Industrial-Related,2019,21463.9
+Industrial-Related,2020,20978.9
+Industrial-Related,2021,22293.1
+Industrial-Related,2022,22693.9
+Industrial-Related,2023,22103.0
+Information And Communications,2015,1430.1
+Information And Communications,2016,1851.2
+Information And Communications,2017,1862.5
+Information And Communications,2018,2229.9
+Information And Communications,2019,2494.8
+Information And Communications,2020,3086.2
+Information And Communications,2021,4029.0
+Information And Communications,2022,4852.4
+Information And Communications,2023,5408.5
+Manufacturing,2015,18274.8
+Manufacturing,2016,18365.3
+Manufacturing,2017,19306.8
+Manufacturing,2018,19441.0
+Manufacturing,2019,19439.4
+Manufacturing,2020,19121.3
+Manufacturing,2021,20284.8
+Manufacturing,2022,20682.1
+Manufacturing,2023,20171.2
+Other Commerce And Service-Related,2015,4710.5
+Other Commerce And Service-Related,2016,4783.2
+Other Commerce And Service-Related,2017,4743.2
+Other Commerce And Service-Related,2018,4857.1
+Other Commerce And Service-Related,2019,4984.6
+Other Commerce And Service-Related,2020,4464.2
+Other Commerce And Service-Related,2021,4541.9
+Other Commerce And Service-Related,2022,4634.2
+Other Commerce And Service-Related,2023,4796.1
+Other Industrial-Related,2015,42.0
+Other Industrial-Related,2016,45.7
+Other Industrial-Related,2017,46.2
+Other Industrial-Related,2018,47.3
+Other Industrial-Related,2019,53.0
+Other Industrial-Related,2020,51.9
+Other Industrial-Related,2021,54.2
+Other Industrial-Related,2022,56.6
+Other Industrial-Related,2023,59.0
+Others,2015,279.1
+Others,2016,280.0
+Others,2017,276.5
+Others,2018,258.4
+Others,2019,246.8
+Others,2020,229.3
+Others,2021,230.8
+Others,2022,193.0
+Others,2023,158.1
+"Professional, Scientific & Technical, Administration & Support Activities",2015,710.3
+"Professional, Scientific & Technical, Administration & Support Activities",2016,681.3
+"Professional, Scientific & Technical, Administration & Support Activities",2017,688.4
+"Professional, Scientific & Technical, Administration & Support Activities",2018,720.2
+"Professional, Scientific & Technical, Administration & Support Activities",2019,805.3
+"Professional, Scientific & Technical, Administration & Support Activities",2020,798.2
+"Professional, Scientific & Technical, Administration & Support Activities",2021,823.1
+"Professional, Scientific & Technical, Administration & Support Activities",2022,949.4
+"Professional, Scientific & Technical, Administration & Support Activities",2023,974.3
+Real Estate Activities,2015,4454.6
+Real Estate Activities,2016,4496.4
+Real Estate Activities,2017,4668.7
+Real Estate Activities,2018,4672.4
+Real Estate Activities,2019,4864.7
+Real Estate Activities,2020,4546.7
+Real Estate Activities,2021,4616.3
+Real Estate Activities,2022,4714.6
+Real Estate Activities,2023,4728.5
+Transport-Related,2015,2444.8
+Transport-Related,2016,2639.0
+Transport-Related,2017,2771.1
+Transport-Related,2018,2947.0
+Transport-Related,2019,3019.3
+Transport-Related,2020,2809.2
+Transport-Related,2021,2844.7
+Transport-Related,2022,2899.7
+Transport-Related,2023,3030.2
+Utilities,2015,1237.2
+Utilities,2016,1453.3
+Utilities,2017,1402.1
+Utilities,2018,1522.0
+Utilities,2019,1574.5
+Utilities,2020,1418.7
+Utilities,2021,1482.1
+Utilities,2022,1490.7
+Utilities,2023,1451.2
+Wholesale And Retail Trade,2015,2107.4
+Wholesale And Retail Trade,2016,2073.3
+Wholesale And Retail Trade,2017,2282.5
+Wholesale And Retail Trade,2018,2316.5
+Wholesale And Retail Trade,2019,2265.4
+Wholesale And Retail Trade,2020,2180.9
+Wholesale And Retail Trade,2021,2226.8
+Wholesale And Retail Trade,2022,2253.5
+Wholesale And Retail Trade,2023,2221.9

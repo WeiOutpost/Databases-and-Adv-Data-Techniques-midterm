@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Electricity DB App</title>
+</head>
+<body>
+  <h1>Electricity Generation & Consumption (Annual)</h1>
+  <h2><%= title %></h2>
+
+  <form method="post" action="/q1">
+    <h3>Q1: How has electricity consumption changed over time (2015–present)?</h3>
+    <button type="submit">Consumption trend</button>
+  </form>
+
+  <form method="post" action="/q2" style="margin-top:10px;">
+    <h3>Q2. Which sectors consumed the most electricity in a given year? (1975-2024)</h3>
+    <input name="Select Year" placeholder="Input Year" />
+    <button type="submit">Q2: Top sectors in year</button>
+  </form>
+
+  <form method="post" action="/q3" style="margin-top:10px;">
+    <h3>Q3. How does manufacturing electricity consumption compare with service-related sectors?</h3>    
+    <button type="submit">Manufacturing vs Services</button>
+  </form>
+
+  <form method="post" action="/q4" style="margin-top:10px;">
+    <h3>Q4. What is the year-on-year change in electricity generation?</h3>   
+    <button type="submit">Q4: YoY generation change</button>
+  </form>
+
+  <form method="post" action="/q5" style="margin-top:10px;">
+    <h3>Q5. Which sector experienced the largest growth in electricity consumption between two selected years?</h3>
+    <input name="y1" placeholder="Year 1 (Min 2015)" />
+    <input name="y2" placeholder="Year 2 (Max 2024)" />
+    <button type="submit">Q5: Biggest growth</button>
+  </form>
+
+  <% if (rows) { %>
+    <hr/>
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <% Object.keys(rows[0] || {}).forEach(k => { %>
+            <th><%= k %></th>
+          <% }) %>
+        </tr>
+      </thead>
+      <tbody>
+        <% rows.forEach(r => { %>
+          <tr>
+            <% Object.values(r).forEach(v => { %>
+              <td><%= v %></td>
+            <% }) %>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  <% } %>
+</body>
+</html>
